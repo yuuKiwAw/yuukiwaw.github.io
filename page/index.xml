@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Yuki&#39;s Blog</title>
+    <link>https://yuukiwaw.github.io/page/</link>
+    <description>Recent content in Pages on Yuki&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yuukiwaw.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yuukiwaw.github.io/about/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuukiwaw.github.io/about/</guid>
+      <description>一个不正经的技术宅XD
+记录生活记录学习
+原来自己有一台位于LA的服务器，由于配置太差(甚至无法长时间运行一个博客)所以被我关掉了（╯﹏╰），以前用过WordPress之后一段时间就一直在用typecho挂载在一台Centos7上面。用了一段时间后发现了HUGO这个这个轻量化的静态博客框架非常符合我的要求，并且能直接部署在GitHub上。所以现在我就专心运营这个博客页面啦（づ￣3￣）づ╭❤～
+ 本博客的主题来源于CaiJimmy大大的stack</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://yuukiwaw.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuukiwaw.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://yuukiwaw.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuukiwaw.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
